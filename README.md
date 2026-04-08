@@ -24,6 +24,6 @@ I used tools such as scikit-survival (Constructing models), pandas (Data preproc
 14. Analysed the effect of a higher gene expression of each respective gene using Kaplan-Meier curves.
 
 # Conclusion
-I reported my findings by created a slideshow.
+I reported my findings by creating a slideshow.
 
 Link: [View Research Slideshow](https://docs.google.com/presentation/d/1PyrGkdy28tM-LGHuYvFIE-P5PfErIvHTEgbvMvHxzd4/edit?usp=sharing)
