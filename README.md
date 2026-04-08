@@ -2,6 +2,11 @@
 During the course of this internship with Pharmint Pte Ltd., I worked on creating a model to predict **survival rates** based on **gene expression data** on breast cancer patients. 
 I used tools such as scikit-survival (Constructing models), pandas (Data preprocessing / handling), numpy (Transformations), and seaborn (Data visualization)
 
+# Data
+Due to the vast amount of data, the file size was too large for GitHub uploads. You can find the datasets here:
+ * [Dataset 1 (df_survival)](https://xenabrowser.net/datapages/?dataset=survival%2FBRCA_survival.txt&host=https%3A%2F%2Ftcga.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
+ * [Dataset 2 (df_gene_expression)](https://xenabrowser.net/datapages/?dataset=TCGA.BRCA.sampleMap%2FHiSeqV2&host=https%3A%2F%2Ftcga.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
+
 # Pipeline:
 1. I loaded both datasets I used
 2. Filtered the datasets to only include the columns I needed.
