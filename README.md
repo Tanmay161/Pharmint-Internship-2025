@@ -29,6 +29,4 @@ Due to the vast amount of data, the file size was too large for GitHub uploads. 
 14. Analysed the effect of a higher gene expression of each respective gene using Kaplan-Meier curves.
 
 # Conclusion
-I reported my findings by creating a slideshow.
-
-Link: [View Research Slideshow](https://docs.google.com/presentation/d/1PyrGkdy28tM-LGHuYvFIE-P5PfErIvHTEgbvMvHxzd4/edit?usp=sharing)
+I reported my findings in the slideshow (Internship Presentation.pdf)
